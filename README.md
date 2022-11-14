@@ -19,10 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://qr-code-component-main-khaki-nu.vercel.app/](https://qr-code-component-main-khaki-nu.vercel.app/)
 
 ## My process
+
+## Method
+Initially I started out with making the card container to hold everything and made sure it looked proportional on mobile (as well as adding the screen background to make sure that I could see the card edges more easily while creating it). THen I added the QR code image and added relevant padding, border radius etc. After that, I added the text and tried to match the text size according to what the image looks like and the style guide.
+
+Once all of that was done, I started playing around with padding and grid row sizing to make sure the text was spaced properly proportional to the image and card edge. Once everything else had been finished, I added the relevant colours and added large TailwindCSS utility classes to make sure that it would still look good on desktop screens.
 
 ### Built with
 
@@ -34,5 +38,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Josh Mo](https://joshmo.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/joshua-mo-143)
-- Twitter - [@yourusername](https://www.twitter.com/joshmo_dev)
+- Frontend Mentor - [@joshua-mo-143](https://www.frontendmentor.io/profile/joshua-mo-143)
+- Twitter - [@joshmo_dev](https://www.twitter.com/joshmo_dev)
